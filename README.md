@@ -1,13 +1,23 @@
 # project_php
 php 로그인 서버 만들기
-<<<<<<< HEAD
 
-=======
->>>>>>> 32f2c69311ab38c1019befa6ccf19eabf8d1c2ed
+### 디비 상태
+<p align='center'>
+    <img src='https://github.com/Abenku/project_php/blob/main/img/db.png?raw=true'>
+</p>
+
 ### 로그인 페이지
 <p align='center'>
-    <img src='https://github.com/Abenku/project_php/blob/main/login_page.png?raw=true'>
+    <img src='https://github.com/Abenku/project_php/blob/main/img/login_page.png?raw=true'>
 </p>
-<<<<<<< HEAD
 
->>>>>>> 32f2c69311ab38c1019befa6ccf19eabf8d1c2ed
+### 로그인 실패
+<p align='center'>
+    <img src='https://github.com/Abenku/project_php/blob/main/img/login_fail.png?raw=true'>
+</p>
+
+### 로그인 성공
+<p align='center'>
+    <img src='https://github.com/Abenku/project_php/blob/main/img/login_success.png?raw=true'>
+</p>
+
